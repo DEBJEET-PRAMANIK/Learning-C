@@ -24,8 +24,5 @@ int main()
             printf("You didn't enter a proper input\n");
             break;
         }
-
         return 0;
      }
-
-
